@@ -27,3 +27,5 @@ getFredData <- function(fetch_symbols, data_file_name, data_dir, force_refresh =
   }
   return(dat)
 }
+
+
